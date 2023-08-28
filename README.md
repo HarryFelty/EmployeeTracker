@@ -4,7 +4,7 @@
 
 This project was developed to provide a way to track employees. This solves the problem of needing an interface to use in order to make changes to employees and their information in a database. This project makes use of technologies such as Inquirer and MySQL2. During the creation of this application, I learned much about using MySQL2 and using JavaScript to make queries to a database.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 
 - [Installation](#installation)
